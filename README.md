@@ -1,2 +1,2 @@
 # FirstRepo
-This is for my class
+This is for my class.
